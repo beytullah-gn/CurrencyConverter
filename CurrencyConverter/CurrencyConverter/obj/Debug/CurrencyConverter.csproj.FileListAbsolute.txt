@@ -1,0 +1,10 @@
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\b-gny\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
